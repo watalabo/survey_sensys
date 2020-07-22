@@ -1,0 +1,132 @@
+AMS
+ARL
+ARM
+Aalto University
+Aarhus University
+Advanced Digital Sciences Center, Illinois at Singapore
+Air Scientific
+Air Scientific, Beijing, China
+Ajou University
+Ajou University School of Medicine
+Arizona State University
+Beijing Jiaotong University
+Bell Laboratories
+Bruno Kessler Foundation, Italy
+Carnegie Mellon University
+Chalmers University of Technology
+Children's National Medical Center
+ChildrenÅfs Hospital Colorado
+Chung-Ang University
+Clemson University
+Cornell University
+Dartmouth College
+Delft University of Technology
+Donghua University
+Dresden University of Technology, Germany
+Drexel University
+Duke University
+ETH Zurich
+Florida State University
+GM Global Research & Development
+George Mason University
+Georgia State University
+Georgia Tech
+Graz University of Technology, Austria
+Hewlett Packard Labs
+Hong Kong University of Science and Technology
+IBM Research Austin
+INRIA
+Illinois Institute of Technology
+Indiana University-Purdue University Indianapolis
+Inria and RISE SICS
+Johannes Kepler University
+KAIST
+KOREATECH
+Kunsan National University
+LG Electronics
+LG Mobile Research
+LUMS
+Lancaster University
+Lehigh University
+MIT
+MSR
+Michigan State University
+Microsoft Research
+Missouri University of Science and Technology
+NAVER Labs
+NEC Labs America
+Nanjing University of Posts and Telecommunications
+Nanyang Technological University
+National Taiwan University
+Nokia Bell Labs
+Northeastern University
+Northwest University
+Northwestern University
+PLA University of Science and Technology
+PUC Rio
+Peking University
+Penn State University
+Politecnico di Milano
+RMIT University
+Rutgers University
+SIAT, Chinese Academy of Sciences
+SICS Swedish ICT
+SUNY Buffalo
+Seoul National University
+Shanghai Jiaotong University
+Singapore Management University
+Stanford
+Stevens Institute of Technology
+Stony Brook University
+TU Berlin
+TU Delft
+TU Dresden
+Texas Tech University
+The Hong Kong Polytechnic University
+Toshiba Research Europe Limited, UK
+Tsinghua University
+UC Berkeley
+UC Davis
+UC Irvine
+UC Merced
+UCSB
+UFAL
+UFMG
+UFPR
+UMBC
+UMD
+UMass Amherst
+UNSW
+Unicamp
+University at Buffalo
+University of California, Los Angeles
+University of California, Riverside
+University of California, Santa Barbara
+University of Colorado
+University of Colorado Boulder
+University of Colorado Denver
+University of Colorado School of Medicine
+University of Illinois at Urbana Champaign
+University of Maryland
+University of Massachusetts Amherst
+University of Massachusetts Lowell
+University of Memphis
+University of Michigan
+University of Minnesota
+University of Minnsota
+University of North Carolina at Chapel Hill
+University of Notre Dame
+University of Oxford
+University of Science and Technology of China
+University of Southern California
+University of Texas at Austin
+University of Trento, Italy
+University of Washington
+Uppsala University
+Virginia Commonwealth University
+Washington University in St Louis
+Wayne State University
+Xi'an Jiaotong University
+Yonsei University
+iflytek
+unaffiliated

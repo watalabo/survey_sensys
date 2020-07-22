@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Conference Program</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="SenSys is the leading conference for research on systems of networked sensing and actuation.">
+    <link rel="canonical" href="http://sensys.acm.org/2016/program/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/2016/css/main.css">
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto' rel='stylesheet' type='text/css'>
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73244615-1', 'acm.org');
+  ga('send', 'pageview');
+
+    </script>
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div class="wrap">
+	  
+	<div class="logosection">  
+
+        <a class="logo" href="/2016">SenSys2016</a>
+        <div class="conference-date">November 14-16, 2016, Stanford, CA, USA</div>
+    
+    <!--<a class="buildsys" href="http://www.buildsys.org/2014/">BuildSys 2016</a>-->
+    <br>
+    </div>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      
+      <div class="trigger">
+        
+          <a class="page-link" href="/2016/about/">About</a>
+          <a class="page-link" href="/2016/cfp/">CFP</a>
+          <a class="page-link" href="/2016/people/">Organization</a>
+		  <a class="page-link" href="/2016/program/">Program</a>
+		  <a class="page-link" href="/2016/registration/">Registration</a>
+          <a class="page-link" href="/2016/venue/">Venue</a>
+          <a class="page-link" href="/2016/travel/">Travel/Visa</a>
+          <a class="page-link" href="/2016/demos/">Posters/Demos</a>
+          <a class="page-link" href="/2016/sponsors/">Sponsors</a>
+          <a class="page-link" href="/2016/workshops/">Workshops</a>
+        
+      </div>
+      
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>Final Conference Program</h1>
+  </header> 
+
+<article class="post-content">
+
+<div class="programblock"></div>
+<h3>Monday, November 14, 2016</h3>
+<div class="programblock"><div class="dateitem">9:00   9:30</div> <b>Welcome</b></div>
+<div class="programblock"><div class="dateitem">9:30   10:30</div> 
+<div class="programdesc">
+<h2><b>Be aware Åc Connect with Care (Part 1)</b></h2>
+    <ul>
+      <li>AoT: Authentication and Access Control for the Entire IoT Device Life-Cycle<br>
+      <span class="authors"> Antonio Lemos Maia Neto (UFMG), Artur Luis Fernandes (UFMG), Italo Cunha (UFMG), Michele Nogueira (UFPR), Ivan Oliveira Nunes (UFMG), Leonardo Cotta (UFMG), Nicolas Gentille (LG Electronics), Antonio A. F. Loureiro (UFMG), Diego F. Aranha (Unicamp), Harsh Kupwade Patil (LG Mobile Research), Leonardo B. Oliveira (UFMG) </span>
+      </li>
+      <li>Robust, low-cost, auditable random number generation for embedded system security<br>
+      <span class="authors"> Ben Lampert (Stanford University), Riad Wahby (Stanford University), Shane Leonard (Stanford University), Philip Levis (Stanford University) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">10:30   11:00</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">11:00   12:00 </div> 
+<div class="programdesc">
+<h2><b>Be aware Åc Connect with Care (Part 2)</b></h2>
+    <ul>
+      <li>Secret from Muscle: Enabling Secure Paring with Electromyography<br>
+      <span class="authors"> Lin Yang (Hong Kong University of Science and Technology), Wei Wang (Hong Kong University of Science and Technology), Qiang Zhang (Hong Kong University of Science and Technology) </span>
+      </li>
+      <li>From Physical to Cyber: Escalating Protection for Personalized Auto Insurance<br>
+      <span class="authors"> xinyu xing (Penn State University), Le Guan (Penn State University), Jun Xu (Penn State University), Shuai Wang (Penn State University), Peng Liu (Penn State University), Heqing Huang (Penn State University), Lin Lin (Penn State University), Wenke Lee (Georgia Tech) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:00   1:30</div> <b>Lunch</b></div>
+<div class="programblock"><div class="dateitem">1:30   3:00</div> 
+<div class="programdesc">
+<h2><b>Hacking the MAC</b></h2>
+    <ul>
+      <li>Staffetta: Smart Duty-Cycling for Opportunistic Data Collection<br>
+      <span class="authors"> Marco Cattani (Delft University of Technology), Andreas Loukas (unaffiliated), Marco Zimmerling (TU Dresden), Marco Zuniga (Delft University of Technology), Koen Langendoen (Delft University of Technology) </span>
+      </li>
+      <li>Effectively Capturing Attention Using the Capture Effect<br>
+      <span class="authors"> Michael Konig (ETH Zurich), Roger Wattenhofer (ETH Zurich) </span>
+      </li>
+      <li>Data Prediction + Synchronous Transmissions = Ultra-low Power Wireless Sensor Networks<br>
+      <span class="authors"> Timofei Istomin (University of Trento, Italy), Amy L. Murphy (Bruno Kessler Foundation, Italy), Gian Pietro Picco (University of Trento, Italy), Usman Raza (Toshiba Research Europe Limited, UK) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">3:00   3:30 </div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">3:30   4:30</div> 
+<div class="programdesc">
+<h2><b>Let's get Physical (Part 1)</b></h2>
+    <ul>
+      <li>Empirical Validation of Commodity Spectrum Monitoring<br>
+      <span class="authors"> Ana Nika (UCSB), Zhijing Li (UCSB), Yanzi Zhu (UCSB), Yibo Zhu (UCSB), Ben Y. Zhao (UCSB), Xia Zhou (Dartmouth College), Haitao Zheng (UCSB) </span>
+      </li>
+      <li>Battery-Free Identification Token for Touch Sensing Devices<br>
+      <span class="authors"> Phuc Nguyen (University of Colorado, Denver), Ufuk Muncuk (Northeastern University), Ashwin Ashok (Carnegie Mellon University), Kaushik R Chowdhury (Northeastern University), Marco Gruteser (Rutgers University), Tam Vu (University of Colorado, Denver) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">4:30   5:30</div> <b>Poster and Demo fast-forward session</b></div>
+<div class="programblock"><div class="dateitem">5:30   7:30</div> <b>Reception/Posters/Demo</b></div>
+
+
+<div class="programblock"></div>
+<h3>Tuesday, November 15, 2016</h3>
+<div class="programblock"><div class="dateitem">9:00  - 10:30</div> 
+<div class="programdesc">
+<h2><b>Mobile Sensing Applications</b></h2>
+    <ul>
+      <li>Nutrilyzer: A Mobile System for Characterizing Liquid Food with Photoacoustic Effect<br>
+      <span class="authors"> Tauhidur Rahman (Cornell University), Alexander T Adams (Cornell University), Perry Schein (Cornell University), Aadhar Jain (Cornell University), David Erickson (Cornell University), Tanzeem Choudhury (Cornell University) </span>
+      </li>
+      <li>SurePoint: Exploiting Ultra Wideband Flooding and Diversity to Provide Robust, Scalable, High-Fidelity Indoor Localization<br>
+      <span class="authors"> Benjamin Kempke (University of Michigan), Pat Pannuto (University of Michigan), Bradford Campbell (University of Michigan), Prabal Dutta (University of Michigan) </span>
+      </li>
+      <li>Tackling the Redundancy and Sparsity in Crowd Sensing Applications<br>
+      <span class="authors"> Chuishi Meng (SUNY Buffalo, Buffalo, NY USA), Houping Xiao (SUNY Buffalo, Buffalo, NY USA), Lu Su (SUNY Buffalo, Buffalo, NY USA), Yun Cheng (Air Scientific, Beijing, China) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">10:30   11:00</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">11:00   12:00 </div> 
+<div class="programdesc">
+<h2><b>Going Deep</b></h2>
+    <ul>
+      <li>Deep Learning for RFID-Based Activity Recognition<br>
+      <span class="authors"> Xinyu Li (Rutgers University), Yanyi Zhang (Rutgers University), Ivan marsic (Rutgers University), Aleksandra Sarcevic (Drexel University), Randall S. Burd (Children's National Medical Center) </span>
+      </li>
+      <li>Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables<br>
+      <span class="authors">Sourav Bhattacharya (Nokia Bell Labs), Nicholas D. Lane (UCL and Nokia Bell Labs)</span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:00   1:30</div> <b>Lunch</b></div>
+<div class="programblock"><div class="dateitem">1:30   2:30</div> 
+<div class="programdesc">
+<h2><b>Wearables: Better ways to Brush, Smoke and Sleep (Part 1)</b></h2>
+    <ul>
+      <li>Monoxalyze: Verifying Smoking Cessation with a Keychain-sized Carbon Monoxide Breathalyzer<br>
+      <span class="authors"> Joshua Adkins (unaffiliated), Prabal Dutta (University of Michigan) </span>
+      </li>
+      <li>Tooth Brushing Monitoring using Wrist Watch<br>
+      <span class="authors"> Hua Huang (Stony Brook University), Shan Lin (Stony Brook University) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">2:30   3:00</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">3:00   4:00</div> 
+<div class="programdesc">
+<h2><b>Wearables: Better ways to Brush, Smoke and Sleep (Part 2)</b></h2>
+    <ul>
+      <li>Amulet: An Energy-Efficient, Multi-Application Wearable Platform<br>
+      <span class="authors"> Josiah Hester (Clemson University), Travis Peters (Dartmouth College), Tianlong Yun (Dartmouth College), Ronald Peterson (Dartmouth College), Joseph Skinner (Dartmouth College), Bhargav Golla (Clemson University), Kevin Storer (Clemson University), Steven Hearndon (Clemson University), Kevin Freeman (Clemson University), Sarah Lord (Dartmouth College), Ryan Halter (Dartmouth College), David Kotz (Dartmouth College), Jacob Sorber (Clemson University)</span>
+      </li>
+      <li>A Lightweight And Inexpensive In-ear Sensing System For Automatic Whole-night Sleep Stage Monitoring<br>
+      <span class="authors"> Anh Nguyen (University of Colorado Denver), Raghda Alqurashi (University of Colorado Denver), Zohreh Raghebi (University of Colorado Denver), Farnoush Banaei-kashani (University of Colorado Denver), Ann C. Halbower (University of Colorado School of Medicine), Tam Vu (University of Colorado Denver) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">4:00   5:00</div> <b>SenSys business meeting</b></div>
+<div class="programblock"><div class="dateitem">5:00 - </div> <b>Catch buses to Computer History Museum </b></div>
+<div class="programblock"><div class="dateitem">5:30   9:00</div> <b>Dinner @ Computer History Museum</b></div>
+<div class="programblock"><div class="dateitem">9:00, 9:30, 10:00</div> <b>Transport back to Stanford</b></div>
+
+
+<div class="programblock"></div>
+<h3>Wednesday, November 16, 2016</h3>
+<div class="programblock"><div class="dateitem">9:00   10:00</div> <b>Keynote</b></div>
+<div class="programblock"><div class="dateitem">10:00  10:30</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">10:30   12:00</div> 
+<div class="programdesc">
+<h2><b>Let's get Physical (Part 2)</b></h2>
+    <ul>
+      <li>B^2W^2: n-Way Concurrent Communication for IoT Devices<br>
+      <span class="authors"> Zicheng Chi (University of Maryland), Yan Li (University of Maryland), Hongyu Sun (University of Maryland), Yao Yao (University of Maryland), Zheng Lu (University of Maryland), Ting Zhu (University of Maryland) </span>
+      </li>
+      <li>HitchHike: Practical Backscatter Using Commodity WiFi<br>
+      <span class="authors"> Pengyu Zhang (Stanford), Dinesh Bharadia (MIT), Kiran Joshi (Stanford), Sachin Katti (Stanford) </span>
+      </li>
+      <li>SNOW: Sensor Network over White Spaces<br>
+      <span class="authors"> Abusayeed Saifullah (Missouri University of Science and Technology), Mahbubur Rahman (Missouri University of Science and Technology), Dali Ismail (Missouri University of Science and Technology), Chenyang Lu (Washington University in St Louis), Ranveer Chandra (Microsoft Research), Jie Liu (Microsoft Research) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">12:00</div> <b>Program Ends</b></div>
+
+</article> 
+
+</div>
+   </div>
+    </div>
+    <footer class="site-footer">
+  <div class="wrap">
+    <h2 class="footer-heading">SenSys 2016</h2>
+    <div class="footer-col-1 column">
+      <ul>
+        <!--<li>Chair: </li>-->
+        <li><a href="mailto:"></a></li>
+		<li>
+            <a class="acm" href="http://www.acm.org">Association for Computing Machinery</a></li>
+			
+      </ul>
+    </div>
+    <div class="footer-col-2 column">
+      <ul>
+        
+        <li>
+          <!--<a href="https://twitter.com/SenSys2016">
+            <span class="icon twitter">
+              <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill="#C2C2C2"
+d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                
+c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27
+                
+c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767
+                
+c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206
+                
+C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271
+                
+c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469
+                
+c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+              </svg>
+            </span>
+            <span class="username">SenSys2016</span>
+          </a>-->
+        </li>
+		
+      </ul>
+    </div>
+    <div class="footer-col-3 column">
+      <p class="text">SenSys is the leading conference for research on systems of networked sensing and
+actuation.</p>
+	  <div class="fb-like" data-href="https://www.facebook.com/pages/ACM-SenSys/201630776532684"
+data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
+  </div> </footer>
+    </body>
+</html>

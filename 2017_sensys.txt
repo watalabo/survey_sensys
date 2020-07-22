@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+
+
+
+    <body>
+
+    <header class="site-header">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div class="wrap">
+	  
+	<div class="logosection">  
+
+        <a class="logo" href="/2017">SenSys2017</a>
+        <div class="conference-date">November 5-8, 2017, Delft, The Netherlands</div>
+    
+    <!--<a class="buildsys" href="http://www.buildsys.org/2014/">BuildSys 2016</a>-->
+    <br>
+    </div>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      
+      <div class="trigger">
+        
+          <a class="page-link" href="/2017/about/">About</a>
+          <a class="page-link" href="/2017/cfp/">CFP</a>
+          <a class="page-link" href="/2017/people/">Organization</a>      
+          <a class="page-link" href="/2017/program/">Program</a>
+          <a class="page-link" href="/2017/registration/">Registration &amp; Travel Grants</a>
+          <a class="page-link" href="/2017/venue/">Venue, Travel &amp; Visa</a>          
+          <!--a class="page-link" href="/2017/travel/">Travel</a-->
+          <a class="page-link" href="/2017/demos/">Posters &amp; Demos</a>
+          <a class="page-link" href="/2017/sponsors/">Sponsors</a>          
+          <a class="page-link" href="/2017/workshops/">Workshops &amp; Tutorials</a>        
+          <a class="page-link" href="/2017/tpc2017/">Doctoral School</a>
+          <a class="page-link" href="/2017/dc/">Doctoral Colloquium</a>
+          <a class="page-link" href="/2017/tota/">Test of Time Award</a>
+      </div>
+      
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <header class="post-header">
+    <h1>Conference Program</h1>
+  </header> 
+
+<article class="post-content">
+	<div class="programblock">
+		<div class="programdesc"><a class="page-link" href="http://dlnext.acm.org/doi/proceedings/10.1145/3131672" title="Go to the ACM Digital Library for additional information about this proceeding">Full Citation in the ACM Digital Library
+               </a></div>
+	</div>
+
+<div class="programblock"></div>
+<h3>Sunday, November 5, 2017</h3>
+<div class="programblock"><div class="dateitem">9:00   17:00</div>
+  <div class="programdesc">
+    <h2><b>Workshops and Tutorial</b></h2>
+  </div>
+</div>
+
+<div class="programblock"></div>
+<h3>Monday, November 6, 2017</h3>
+<div class="programblock"><div class="dateitem">8:30   8:45</div> <b>Registration</b></div>
+<div class="programblock"><div class="dateitem">8:45   9:00</div> <b>Opening</b></div>
+<div class="programblock"><div class="dateitem">9:00   10:00</div> 
+<div class="programdesc"><b><a class="page-link" href="/2017/keynote/">Keynote: Is There Any Practical Theory? </a></b><ul><li>By Prof. Roger Wattenhofer (ETH Zurich)</li></ul></div></div>
+<div class="programblock"><div class="dateitem">10:00   10:30</div><b>Break </b></div>
+<div class="programblock"><div class="dateitem">10:30   12:00</div>
+<div class="programdesc">
+<h2><b>Networking</b> (Session Chair: Jacob Sorber)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131685" title="Get the Full Text from the ACM Digital Library">Network-wide Consensus Utilizing the Capture Effect in Low-power Wireless Networks</a><br>
+      <span class="authors"> Beshr Al Nahas (Chalmers University of Technology), Simon Duquennoy (Inria and RISE SICS) and Olaf Landsiedel (Chalmers University of Technology) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131687" title="Get the Full Text from the ACM Digital Library">BLEach: Exploiting the Full Potential of IPv6 over BLE in Constrained Embedded IoT Devices</a><br>
+      <span class="authors"> Michael Spoerk (Graz University of Technology, Austria), Carlo Alberto Boano (Graz University of Technology, Austria), Marco Zimmerling (Dresden University of Technology, Germany) and Kay Roemer (Graz University of Technology, Austria) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131678" title="Get the Full Text from the ACM Digital Library">BlueBee: a 10,000x Faster Cross-Technology Communication via PHY Emulation</a><br>
+      <span class="authors"> Wenchao Jiang (University of Minnesota), Zhimeng Yin (University of Minnesota), Ruofeng Liu (University of Minnesota), Zhijun Li (University of Minnesota), Song Min Kim (George Mason University) and Tian He (University of Minnesota) </span> 
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:00   13:30</div> <b>Lunch</b></div>
+<div class="programblock"><div class="dateitem">12:30   13:30</div> <b>F1/10 Tutorial</b></div>
+<div class="programblock"><div class="dateitem">13:30   14:30 </div> 
+<div class="programdesc">
+<h2><b>Deep Learning</b> (Session Chair: Hongkai Wen)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131675" title="Get the Full Text from the ACM Digital Library">DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework</a><br>
+      <span class="authors"> Shuochao Yao (University of Illinois at Urbana Champaign), Yiran Zhao (University of Illinois at Urbana Champaign), Aston Zhang (University of Illinois at Urbana Champaign), Lu Su (State University of New York at Buffalo) and Tarek Abdelzaher (University of Illinois at Urbana Champaign) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131693" title="Get the Full Text from the ACM Digital Library">DeepASL: Enabling Ubiquitous and Non-Intrusive Word and Sentence-Level Sign Language Translation</a> <br>
+      <span class="authors"> Biyi Fang (Michigan State University), Jillian Co (Michigan State University) and Mi Zhang (Michigan State University) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">14:30   15:00</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">15:00   16:30</div> 
+<div class="programdesc">
+<h2><b>Healthcare</b> (Session Chair: Tam Vu)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131679" title="Get the Full Text from the ACM Digital Library">Monitoring a Person's Heart Rate and Respiratory Rate on a Shared Bed Using Geophones</a><br>
+      <span class="authors"> Zhenhua Jia (Rutgers University), Amelie Bonde (Carnegie Mellon University), Sugang Li (Rutgers University), Chenren Xu (Peking University), Jingxian Wang (Carnegie Mellon University), Yanyong Zhang (Rutgers University), Richard E. Howard (Rutgers University) and Pei Zhang (Carnegie Mellon University) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131694" title="Get the Full Text from the ACM Digital Library">mCerebrum: A Mobile Sensing Software Platform for Development and Validation of Digital Biomarkers and Interventions</a><br>
+      <span class="authors"> Syed Monowar Hossain (University of Memphis), Timothy Hnat (University of Memphis), Nazir Saleheen (University of Memphis), Nusrat Jahan Nasrin (University of Memphis), Joseph Noor (University of California, Los Angeles), Bo-Jhang Ho (University of California, Los Angeles), Tyson Condie (University of California, Los Angeles), Mani Srivastava (University of California, Los Angeles) and Santosh Kumar (University of Memphis) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131690" title="Get the Full Text from the ACM Digital Library">Glasses for the Third Eye: Improving the Quality of Clinical Data Analysis with Motion Sensor-based Filtering</a><br>
+      <span class="authors"> Jaeyeon Park (Ajou University),Woojin Nam (Ajou University), Taeyoung Kim (Ajou University School of Medicine), Jaewon Choi (Ajou University), Sukhoon Lee (Kunsan National University), Dukyong Yoon (Ajou University School of Medicine), Jeongyeup Paek (Chung-Ang University) and JeongGil Ko (Ajou University) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">16:30   17:00 </div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">17:00   18:00</div> 
+<div class="programdesc">
+<h2><b>Novel Communication Media</b> (Session Chair: Yuan He)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131676" title="Get the Full Text from the ACM Digital Library">Enabling Reliable, Asynchronous, and Bidirectional Communication in Sensor Networks over White Spaces</a><br>
+      <span class="authors"> Abusayeed Saifullah (Wayne State University), Mahbubur Rahman (Wayne State University), Dali Ismail (Wayne State University), Chenyang Lu (Washington University in St Louis), Jie Liu (Microsoft Research) and Ranveer Chandra (Microsoft Research)</span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131681" title="Get the Full Text from the ACM Digital Library">Application-Layer Clock Synchronization for Wearables Using Skin Electric Potentials Induced by Powerline Radiation</a><br>
+      <span class="authors"> Zhenyu Yan (Nanyang Technological University, Singapore), Yang Li (Advanced Digital Sciences Center, Illinois at Singapore), Rui Tan (Nanyang Technological University, Singapore) and Jun Huang (Peking University, China) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">18:00   20:00</div> <b>Poster, Demo and Reception</b></div>
+
+<div class="programblock"></div>
+<h3>Tuesday, November 7, 2017</h3>
+<div class="programblock"><div class="dateitem">8:00   8:30</div> <b>Registration</b></div>
+<div class="programblock"><div class="dateitem">8:30  - 10:00</div> 
+<div class="programdesc">
+<h2><b>Localization and Tracking</b> (Session Chair: Hongkai Wen)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131677" title="Get the Full Text from the ACM Digital Library">SmartLight: Light-weight 3D Indoor Localization Using a Single LED Lamp</a> <b>(Best paper award winner)</b> <br>
+      <span class="authors"> Song Liu (University of Minnesota) and Tian He (University of Minnesota) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131698" title="Get the Full Text from the ACM Digital Library">Indoor Localization with Aircraft Signals</a><br>
+      <span class="authors"> Manuel Eichelberger (ETH Zurich), Kevin Luchsinger (ETH Zurich), Simon Tanner (ETH Zurich) and Roger Wattenhofer (ETH Zurich) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131689" title="Get the Full Text from the ACM Digital Library">BatTracker: High Precision Infrastructure-free Mobile Device Tracking in Indoor Environments</a><br>
+      <span class="authors"> Bing Zhou (Stony Brook University), Mohammed Elbadry (Stony Brook University), Ruipeng Gao (Beijing Jiaotong University), Fan Ye (Stony Brook University) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">10:00   10:30</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">10:30   12:00 </div> 
+<div class="programdesc">
+
+<h2><b>Human Sensing</b> (Session Chair: Olaf Landsiedel)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131680" title="Get the Full Text from the ACM Digital Library">Non-Intrusive Multi-Modal Estimation of Building Occupancy</a><br>
+      <span class="authors"> Aveek K. Das (University of California, Davis), Parth H. Pathak (George Mason University), Josiah Jee (University of California, Davis), Chen-Nee Chuah (University of California, Davis) and Prasant Mohapatra (University of California, Davis) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131695" title="Get the Full Text from the ACM Digital Library">Calibrating Time-variant, Device-specific Phase Noise for COTS WiFi Devices</a><br>
+      <span class="authors">Jincao Zhu (University of Colorado), Youngbin Im (University of Colorado), Shivakant Mishra (University of Colorado) and Sangtae Ha (University of Colorado)</span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131692" title="Get the Full Text from the ACM Digital Library">WiFi-Enabled Smart Human Dynamics Monitoring</a><br> 
+      <span class="authors">Xiaonan Guo (Stevens Insititute of Technology), Bo Liu (Stevens Insititute of Technology), Cong Shi (Stevens Insititute of Technology), Hongbo Liu (Indiana University-Purdue University Indianapolis), Yingying Chen (Stevens Insititute of Technology) and Mooi Choo Chuah (Lehigh University)</span></li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:00   13:30</div> <b>Lunch</b></div>
+<div class="programblock"><div class="dateitem">12:30   13:30</div> <b>F1/10 Tutorial</b></div>
+<div class="programblock"><div class="dateitem">13:30   14:30 </div> 
+<div class="programdesc">
+<h2><b>Energy Management I</b> (Session Chair: Brad Campbell)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131673" title="Get the Full Text from the ACM Digital Library">Timely Execution on Intermittently Powered Batteryless Sensors</a><br>
+      <span class="authors"> Josiah Hester (Northwestern University), Kevin Storer (University of California, Irvine) and Jacob Sorber (Clemson University) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131691" title="Get the Full Text from the ACM Digital Library">LoRea: A Backscatter Architecture that Achieves Long Communication Range</a><br>
+      <span class="authors"> Ambuj Varshney (Uppsala University, Sweden), Oliver Harms (Uppsala University,Sweden), Carlos Perez Penichet (Uppsala University, Sweden), Christian Rohner (Uppsala University, Sweden), Frederik Hermans (Uppsala University, Sweden) and Thiemo Voigt (Uppsala University and RISE SICS AB, Sweden)</span>
+      </li>
+    </ul> 
+  </div>
+</div>
+
+<div class="programblock"><div class="dateitem">14:30   15:00</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">15:00   16:00</div> 
+<div class="programdesc">
+<h2><b>Energy Management II</b> (Session Chair: R. Venkatesha Prasad)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131674" title="Get the Full Text from the ACM Digital Library">Flicker: Rapid Prototyping for the Batteryless Internet-of-Things</a><br>
+      <span class="authors"> Josiah Hester (Northwestern University) and Jacob Sorber (Clemson University)</span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131684" title="Get the Full Text from the ACM Digital Library">Exploiting Multi-Cell Battery for Mobile Devices: Design, Management, and Performance</a><br>
+      <span class="authors"> Sungwoo Baek (Yonsei University, South Korea), Minyoung Go (Yonsei University, South Korea), Seokjun Lee (Yonsei University, South Korea) and Hojung Cha (Yonsei University, South Korea) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">16:00   16:30</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">16:30 - 18:00</div>
+<div class="programdesc">
+<h2><b>Panel: New Directions</b> (Session Chairs: Luca Mottola and Niki Trigoni) </h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131699" title="Get the Full Text from the ACM Digital Library">The Future of Sensing is Batteryless, Intermittent, and Awesome</a><br>
+      <span class="authors"> Josiah Hester (Northwestern University) and Jacob Sorber (Clemson University)</span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131700" title="Get the Full Text from the ACM Digital Library">Proof-Carrying Sensing: Towards a Real-World Authentication Scheme to Cyber- Physical-Human Systems</a><br>
+      <span class="authors"> Min Wu (UMD), Fernando M. Q. Pereira (UFMG), Jie Liu (MSR), Heitor Ramos (UFAL), Mario S. Alvim (UFMG) and Leonardo B. Oliveira (UFMG) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131701" title="Get the Full Text from the ACM Digital Library">SWANS: Sensor Wireless Actuator Network in Space</a><br>
+      <span class="authors"> Sujay Narayana (TU Delft), R Venkatesha Prasad (TU Delft), Vijay Rao (TU Delft) and Chris Verhoeven (TU Delft) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131702" title="Get the Full Text from the ACM Digital Library">Wireless Robotic Materials</a><br>
+      <span class="authors"> Nikolaus Correll (University of Colorado Boulder), Richard Han (University of Colorado Boulder), Kris Pister (University of California, Berkeley) and Prabal Dutta (University of California, Berkeley)</span>
+      </li>
+    </ul> 
+  </div>
+</div>
+ <div class="programblock"><div class="dateitem">18:30   22:30</div> <b>Social Event (Dinner @ Herberg de Mol)</b></div>
+
+<div class="programblock"></div>
+<h3>Wednesday, November 8, 2017</h3>
+<div class="programblock"><div class="dateitem">9:00   10:30</div> 
+<div class="programdesc">
+<h2><b>Innovative Sensing</b> (Session Chair: Lu Su)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131682" title="Get the Full Text from the ACM Digital Library">Ultra-Low Power Gaze Tracking for Virtual Reality</a><br>
+      <span class="authors"> Tianxing Li (Dartmouth College), Qiang Liu (Dartmouth College) and Xia Zhou (Dartmouth College) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131696" title="Get the Full Text from the ACM Digital Library">PhO<sub>2</sub>: Smartphone based Blood Oxygen Level Measurement Systems using Near-IR and RED Wave-guided Light</a><br>
+      <span class="authors">Nam Bui (University of Colorado Boulder), Anh Nguyen (University of Colorado Boulder), Phuc Nguyen (University of Colorado Boulder), Hoang Truong (University of Colorado Boulder), Ashwin Ashok (Georgia State University), Thang Dinh (Virginia Commonwealth University), Robin Deterding (ChildrenÅfs Hospital Colorado) and Tam Vu (University of Colorado
+Boulder) </span>
+      </li>
+      
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131686" title="Get the Full Text from the ACM Digital Library">LuBan: Low-Cost and In-Situ Droplet Micro-Sensing for Inkjet 3D Printing Quality Assurance</a><br>
+      <span class="authors"> Aosen Wang (State University of New York at Buffalo), Tianjiao Wang (State University of New York at Buffalo), Chi Zhou (State University of New York at Buffalo) and Wenyao Xu (State University of New York at Buffalo) </span>
+      </li>
+    </ul> 
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">10:30   11:00</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">11:00   12:30</div> 
+<div class="programdesc">
+<h2><b>Security and Privacy</b> (Session Chair: Rui Tan)</h2>
+    <ul>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131688" title="Get the Full Text from the ACM Digital Library">Ditio: Trustworthy Auditing of Sensor Activities in Mobile &amp; IoT Devices</a><br>
+      <span class="authors"> Saeed Mirzamohammadi (UC Irvine), Justin A. Chen (UC Irvine), Ardalan Amiri Sani (UC Irvine), Sharad Mehrotra (UC Irvine) and Gene Tsudik (UC Irvine)</span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131697" title="Get the Full Text from the ACM Digital Library">Secure Sharing of Partial Homomorphic Encrypted IoT Data</a><br>
+      <span class="authors"> Hossein Shafagh (ETH Zurich), Anwar Hithnawi (ETH Zurich), Lukas Burkhalter (ETH Zurich), Pascal Fischli (ETH Zurich) and Simon Duquennoy (Inria and RISE SICS) </span>
+      </li>
+      <li><a href="http://dlnext.acm.org/doi/abs/10.1145/3131672.3131683" title="Get the Full Text from the ACM Digital Library">CamForensics: Understanding Visual Privacy Leaks in the Wild</a><br>
+      <span class="authors"> Animesh Srivastava (Duke University), Puneet Jain (Hewlett Packard Labs), Soteris Demetriou (University of Illinois at Urbana-Champaign), Landon Cox (Duke University) and Kyu-Han Kim (Hewlett Packard Labs)</span>
+      </li>
+      
+    </ul> 
+  </div>
+</div>
+
+</article> 
+
+</div>
+   </div>
+    </div>
+    <footer class="site-footer">
+  <div class="wrap">
+    <h2 class="footer-heading">SenSys 2017</h2>
+    <div class="footer-col-1 column">
+      <ul>
+        <!--<li>Chair: </li>-->
+        <li><a href="mailto:"></a></li>
+		<li>
+            <a class="acm" href="http://www.acm.org">Association for Computing Machinery</a></li>
+			
+      </ul>
+    </div>
+    <div class="footer-col-2 column">
+      <ul>
+        
+        <li>
+          <!--<a href="https://twitter.com/SenSys2016">
+            <span class="icon twitter">
+              <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill="#C2C2C2"
+d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                
+c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27
+                
+c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767
+                
+c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206
+                
+C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271
+                
+c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469
+                
+c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+              </svg>
+            </span>
+            <span class="username">SenSys2016</span>
+          </a>-->
+        </li>
+		
+      </ul>
+    </div>
+    <div class="footer-col-3 column">
+      <p class="text">SenSys is the leading conference for research on systems of networked sensing and
+actuation.</p>
+	  <div class="fb-like" data-href="https://www.facebook.com/pages/ACM-SenSys/201630776532684"
+data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
+  </div> </footer>
+    </body>
+</html>

@@ -1,0 +1,269 @@
+
+</article>
+
+<article class="post-content">
+<!-- =============================================================================================================================-->
+<!-- BEGIN FIRST DAY-->
+<!-- =============================================================================================================================-->
+
+
+
+<div class="programblock"></div>
+<h3>Sunday, November 1, 2015 : Workshops</h3>
+ <ul>
+  <li><a href="http://www.enssys.org/2015/">The 3rd International Workshop on Energy Harvesting and Energy-Neutral Sensing Systems (ENSsys)</a></li>
+  <li><a href="http://ceca.pku.edu.cn/IoT-App15/">The 2nd International Workshop on Internet of Things towards Applications (IoT-App)</a></li>
+  <li><a href="https://sites.google.com/site/realwsn2015/">The 6th Workshop on Real World Wireless Sensor Networks</a></li>
+  <li><a href="https://www.cs.uky.edu/~qian/CSAR15/CSARcfp.html">The 1st Workshop for Context Sensing and Activity Recognition (CSAR)</a></li>
+  <li><a href="http://sensys.acm.org/2015/dc/">Doctoral Colloquium</a></li>
+ </ul>
+
+<h3>Monday, November 2, 2015</h3>
+
+<div class="programblock"><div class="dateitem">8:00 - 8:15</div> <b>Welcome</b></div>
+<div class="programblock"><div class="dateitem">8:15 - 8:30</div> <b>Introduction of Seoul, Korea</b> </div>
+<div class="programblock"><div class="dateitem">8:30 - 9:30</div> <h4><a href="/2015/keynote">Keynote Talk : Raj Rajkumar</a> (Carnegie Mellon University)</h4>"Self-Driving Vehicles: The Challenges and Opportunities Ahead"</div>
+<div class="programblock"><div class="dateitem">9:30 - 10:00</div><b>Break</b></div>
+
+<div class="programblock"><div class="dateitem">10:00 - 12:00</div>
+<div class="programdesc">
+<h2><b>Energy (Session chair: Nic Lane)</b></h2>
+    <ul>
+      <li>Tragedy of the Coulombs: Federating Energy Storage for Tiny, Intermittently-Powered Sensors<br>
+  <span class="authors">Josiah Hester, Lanny Sitanayah, Jacob Sorber (Clemson University)</span>  
+      </li>
+      <li>
+  PowerBlade: A Low Profile True Power Plug Load Meter <br>
+  <span class="authors">Samuel DeBruin, Branden Ghena, Ye-Sheng Kuo, Prabal Dutta (University of Michigan)</span>
+      </li>
+      <li>PowerForecaster: Predicting Smartphone Power Impact of Continuous Sensing Applications at Pre-installation Time<br>
+   <span class="authors">Chulhong Min (KAIST), Youngki Lee (Singapore Management University), Chungkuk Yoo (KAIST), Seungwoo Kang (KOREATECH), Sangwon Choi, Pillsoon Park (KAIST), Inseok Hwang (IBM Research Austin), Younghyun Ju (NAVER Labs), Seungpyo Choi, Junehwa Song (KAIST)</span>
+      </li>
+      <li>Zippy: On-Demand Network Flooding<br>
+   <span class="authors">Felix Sutton, Bernhard Buchli, Jan Beutel, Lothar Thiele (ETH Zurich)</span>
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:00 - 1:00</div><b>Lunch</b></div>
+
+<div class="programblock"><div class="dateitem">1:00 - 3:00</div> <div class="programdesc">
+<h2><b>Indoor Mapping and Navigation (Session chair: Fred Jiang)</b></h2>
+    <ul>
+      <li>Rise of the Indoor Crowd: Reconstruction of Building Interior View via Mobile Crowdsourcing<br>
+  <span class="authors">Si Chen, Muyuan Li, Kui Ren (SUNY Buffalo), Xinwen Fu (University of Massachusetts Lowell), Chunming Qiao (SUNY Buffalo)</span>  
+      </li>
+      <li>ALPS: A Bluetooth and Ultrasound Platform for Mapping and Localization<br>
+  <span class="authors">Patrick Lazik, Niranjini Rajagopal, Oliver Shih, Bruno Sinopoli, Anthony Rowe (Carnegie Mellon University)</span>
+      </li>
+      <li>iMoon: Using Smartphones for Image-based Indoor Navigation<br>
+   <span class="authors">Jiang Dong, Yu Xiao, Marius Noreikis, Zhonghong Ou, Antti Yla-Jaaski(Aalto University)</span>
+      </li>
+      <li>VeTrack: Real Time Vehicle Tracking in Uninstrumented Indoor Environments<br>
+   <span class="authors">Mingmin Zhao, Tao Ye, Ruipeng Gao (Peking University), Fan Ye (Stony Brook University), Yizhou Wang, Guojie Luo (Peking University)</span>
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">3:00 - 3:30</div><b>Break</b></div>
+
+<div class="programblock"><div class="dateitem">3:30 - 5:30</div> <div class="programdesc">
+<h2><b>Object and Activity Recognition (Session chair: Wen Hu)</b></h2>
+    <ul>
+      <li>ShopMiner: Mining Customer Shopping Behavior in Physical Clothing Stores with Passive RFIDs<br>
+  <span class="authors">Longfei Shangguan, Zimu Zhou (HKUST), Xiaolong Zheng, Lei Yang, Yunhao Liu (Tsinghua University), Jinsong Han (Xi'an Jiaotong University)</span>  
+      </li>
+      <li>Smart Devices are Different: Assessing and Mitigating Mobile Sensing Heterogeneities for Activity Recognition<br>
+  <span class="authors">Allan Stisen, Henrik Blunck (Aarhus University), Sourav Bhattacharya (Bell Laboratories), Thor Siiger Prentow, Mikkel Baun Kjaegaard (Aarhus University), Anind Dey (Carnegie Mellon University), Tobias Sonne, Mads Moller Jensen (Aarhus University)</span>
+      </li>
+      <li>FEMO: A Platform for Free-weight Exercise Monitoring with RFIDs<br>
+   <span class="authors">Han Ding (Xi'an Jiaotong University), Longfei Shangguan (HKUST), Zheng Yang (Tsinghua University), Jinsong Han (Xi'an Jiaotong University), Zimu Zhou (HKUST), Panlong Yang (PLA University of Science and Technology), Wei Xi, Jizhong Zhao (Xi'an Jiaotong University)</span>
+      </li>
+      <li>Glimpse: Continuous, Real-Time Object Recognition on Mobile Devices<br>
+   <span class="authors">Tiffany Yu-Han Chen (MIT), Lenin Ravindranath (Microsoft Research), Shuo Deng (MIT), Paramvir Bahl (Microsoft Research), Hari Balakrishnan (MIT)</span>
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">5:30 - 7:30</div><b>Reception / Posters / Demos</b></div>
+
+
+<!-- =============================================================================================================================-->
+<!-- SECOND DAY -->
+<div class="programblock"></div>
+<h3>Tuesday, November 3, 2015</h3>
+
+
+<div class="programblock"><div class="dateitem">8:30 - 10:00</div>
+<div class="programdesc">
+<h2><b>Information Services (Session chair: Akos Ledeczi)</b></h2>
+    <ul>
+      <li>Truth Discovery on Crowd Sensing of Correlated Entities<br>
+  <span class="authors">Chuishi Meng, Wenjun Jiang, Yaliang Li, Jing Gao, Lu Su, Hu Ding (SUNY Buffalo), Yun Cheng (Air Scientific)</span>  
+      </li>
+      <li>
+  Cloud-Enabled Privacy-Preserving Truth Discovery in Crowd Sensing Systems<br>
+  <span class="authors">Chenglin Miao, Wenjun Jiang, Lu Su, Yaliang Li, Suxin Guo, Zhan Qin, Houping Xiao, Jing Gao, Kui Ren(SUNY Buffalo)</span>
+      </li>
+      <li>Talos: Encrypted Query Processing for the Internet of Things<br>
+   <span class="authors">Hossein Shafagh, Anwar Hithnawi, Andreas Droescher (ETH Zurich), Simon Duquennoy (SICS Swedish ICT), Wen Hu (UNSW)</span>
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">10:00 - 10:30</div><b>Break</b></div>
+
+<div class="programblock"><div class="dateitem">10:30 - 12:30</div> <div class="programdesc">
+<h2><b>Localization (Session chair: Tian He)</b></h2>
+    <ul>
+      <li>SpinLight: A High Accuracy and Robust Light Positioning System for Indoor Applications<br>
+  <span class="authors">Bo Xie, Guang Tan (SIAT, Chinese Academy of Sciences), Tian He (University of Minnesota)</span>  
+      </li>
+      <li>Contour-based Trilateration for Indoor Fingerprinting Localization<br>
+  <span class="authors">Suining He , Tianyang Hu, S.-H. Gary Chan (HKUST)</span>
+      </li>
+      <li>Accurate Positioning via Cross-Modality Training<br>
+   <span class="authors">Savvas Papaioannou, Hongkai Wen, Zhuoling Xiao, Andrew Markham, Niki Trigoni (University of Oxford)</span>
+      </li>
+      <li>CARLOC: Precise Positioning of Automobiles<br>
+   <span class="authors">Yurong Jiang, Hang Qiu, Matthew McCartney, Gaurav Sukhatme (University of Southern California), Marco Gruteser (Rutgers University), Fan Bai, Donald Grimm (GM Global Research & Development), Ramesh Govindan (University of Southern California)</span>
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:30 - 1:30</div><b>Lunch</b></div>
+
+<div class="programblock"><div class="dateitem">1:30 - 3:30</div> <div class="programdesc">
+<h2><b>Systems (Session chair: Luca Mottola)</b></h2>
+    <ul>
+      <li>Bolt: A Stateful Processor Interconnect<br>
+  <span class="authors">Felix Sutton, Reto Da Forno, Marco Zimmerling, Roman Lim, Tonio Gsell, Georgia Giannopoulou, Federico Ferrari, Jan Beutel, Lothar Thiele (ETH Zurich)</span>  
+      </li>
+      <li>MarketNet: An Asymmetric Transmission Power-based Wireless System for Managing e-Price Tags in Markets<br>
+  <span class="authors">Hyung-Sin Kim, Hosoo Cho, Myung-Sup Lee (Seoul National University), Jeongyeup Paek (Chung-Ang University), JeongGil Ko (Ajou University), Saewoong Bahk (Seoul National University)</span>
+      </li>
+      <li>DrunkWalk: Collaborative and Adaptive Planning for Navigation of Micro-Aerial Sensor Swarm<br>
+   <span class="authors">Xinlei Chen, Aveek Purohit, Carlos Ruiz Dominguez (Carnegie Mellon University), Stefano Carpin (UC Merced), Pei Zhang (Carnegie Mellon University)</span>
+      </li>
+      <li>Sensing Ambient Light for User Experience-Oriented Color Scheme Adaptation on Smartphone<br>
+   <span class="authors">Jiadi Yu, Jiaming Zhao (Shanghai Jiaotong University), Yingying Chen (Stevens Institute of Technology), Jie Yang (Florida State University)</span>
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">3:30 - 4:30</div><b>Panel</b></div>
+<div class="programblock"><div class="dateitem">4:40 - 7:30</div><b>Trip / Social Event</b></div>
+<div class="programblock"><div class="dateitem">7:30 - </div><b>Dinner</b></div>
+
+<!-- =============================================================================================================================-->
+<!-- THIRD DAY -->
+
+
+<div class="programblock"></div>
+<h3>Wednesday, November 4, 2015</h3>
+
+<div class="programblock"><div class="dateitem">8:30 - 9:30</div> <h4><a href="/2015/keynote#hendrik">Keynote Talk : Hendrik Hamann </a> (IBM Research)</h4>"From Sensors to Smarter Solutions with Physical Analytics"</div>
+<div class="programblock"><div class="dateitem">9:30 - 10:00</div><b>Break</b></div>
+<div class="programblock"><div class="dateitem">10:00 - 12:00</div>
+<div class="programdesc">
+<h2><b>Networking (Session chair: Kamin Whitehouse)</b></h2>
+    <ul>
+      <li>cETX: Incorporating Spatiotemporal Correlation for Better Wireless Networking<br>
+  <span class="authors">Song Min Kim, Shuai Wang, Tian He (University of Minnesota)</span>  
+      </li>
+      <li>
+  Orchestra: Robust Mesh Networks Through Autonomously Scheduled TSCH<br>
+  <span class="authors">Simon Duquennoy (SICS Swedish ICT), Beshr Al Nahas, Olaf Landsiedel (Chalmers University of Technology), Thomas Watteyne (INRIA)</span>
+      </li>
+      <li>Directional Transmissions and Receptions for High-throughput Bulk Forwarding in Wireless Sensor Networks<br>
+   <span class="authors">Ambuj Varshney (Uppsala University), Luca Mottola (Politecnico di Milano, SICS Swedish ICT), Mats Carlsson (SICS Swedish ICT), Thiemo Voigt (Uppsala University, SICS Swedish ICT)</span>
+      </li>
+      <li>When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks<br>
+  <span class="authors">Wan Du, Jansen Christian Liando, Huanle Zhang, Mo Li(Nanyang Technological University)</span>  
+      </li>
+  </ul>
+</div>
+</div>
+
+<div class="programblock"><div class="dateitem">12:00 - 1:00</div><b>Business meeting</b></div>
+
+<!-- =============================================================================================================================-->
+<!-- NOV 5th DAY -->
+
+
+<div class="programblock"></div>
+<h3>Thursday, November 5, 2015</h3>
+
+<div class="programblock"><div class="dateitem">1:00 - </div><b>BuildSys</b></div>
+
+
+
+
+  </article>
+  <p>Please click on the image below for a comprehensive schedule throughout the conference.</p>
+<p><a href="/2015/resources/documents/timetable_sensys.png"><img src="/2015/resources/documents/timetable_sensys.png" alt="Timetable" width="100%"></a></p>
+
+
+</div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrap">
+
+    <h2 class="footer-heading">SenSys 2015</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <!--<li>Chair: </li>-->
+        <li><a href="mailto:"></a></li>
+		<li>
+            <a class="acm" href="http://www.acm.org">Association for Computing Machinery</a></li>
+			
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
+      <ul>
+        
+        <li>
+          <!--<a href="https://twitter.com/SenSys2015">
+            <span class="icon twitter">
+              <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
+                <path fill="#C2C2C2" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809
+                c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27
+                c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767
+                c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206
+                C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271
+                c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469
+                c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
+              </svg>
+            </span>
+            <span class="username">SenSys2015</span>
+          </a>-->
+        </li>
+		
+      </ul>
+    </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">SenSys is the leading conference for research on systems of networked sensing and actuation.</p>
+	  <div class="fb-like" data-href="https://www.facebook.com/pages/ACM-SenSys/201630776532684" data-width="300" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+    </body>
+</html>

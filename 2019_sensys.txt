@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Conference Program</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="SenSys is the leading conference for research on systems of networked sensing and actuation.">
+    <link rel="canonical" href="http://sensys.acm.org/2019/program/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/2019/css/main.css">
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto' rel='stylesheet' type='text/css'>
+
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73244615-1', 'acm.org');
+  ga('send', 'pageview');
+
+    </script>
+</head>
+
+
+    <body>
+
+    <header class="site-header">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div class="wrap">
+
+	<div class="logosection">
+
+        <a class="logo" href="/2019">SenSys2019</a>
+        <div class="conference-date">November 10-13, 2019, New York, NY, USA</div>
+
+    <!--<a class="buildsys" href="http://www.buildsys.org/2018/">BuildSys 2018</a>-->
+    <br>
+    </div>
+
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           viewBox="0 0 18 15" enable-background="new 0 0 18 15" xml:space="preserve">
+          <path fill="#505050" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0
+            h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#505050" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484
+            h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#505050" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0
+            c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div class="trigger">
+        
+          <a class="page-link" href="/2019/about/">About</a>
+          <a class="page-link" href="/2019/cfp/">CFP</a>
+          <a class="page-link" href="/2019/people/">Organization</a>
+          <a class="page-link" href="/2019/program/">Program</a>
+          <a class="page-link" href="/2019/registration/">Registration &amp; Travel Grants</a>
+          <a class="page-link" href="/2019/venue/">Venue, Travel &amp; Visa</a>
+          <!--a class="page-link" href="/2019/travel/">Travel</a-->
+          <a class="page-link" href="/2019/demos/">Posters &amp; Demos</a>
+          <a class="page-link" href="/2019/sponsors/">Sponsors</a>
+          <a class="page-link" href="/2019/workshops/">Workshops &amp; Tutorials</a>
+          <a class="page-link" href="/2019/n2women/">N2Women</a>
+<!--          <a class="page-link" href="/2018/tpc2018/">Doctoral School</a>-->
+          <a class="page-link" href="/2019/dc/">Doctoral Colloquium</a>
+          <a class="page-link" href="/2019/tota/">Test of Time Award</a>
+      </div>
+
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrap">
+      <div class="post">
+
+  <!--<header class="post-header">
+    <h1>Conference Program</h1>
+  </header>-->
+
+<article class="post-content">
+
+    
+<header>
+<h2>Conference Program</h2>
+</header>
+<div class="programblock"></div>
+<h3>Monday, November 11, 2019</h3>
+<div class="programblock"><div class="dateitem">7:45   8:30</div> <b>Registration</b></div>
+<div class="programblock"><div class="dateitem">8:30   9:00</div>
+<div class="programdesc"><b>Opening</b><br>Welcome Remarks By: <ul><li><a href="https://www.ee.columbia.edu/shih-fu-chang" target=_blank>Shih-Fu Chang (Senior Executive Vice Dean, School of Engineering and Applied Science, Columbia University)</a></ul></div></div>
+<div class="programblock"><div class="dateitem">9:00   10:00</div>
+    <div class="programdesc"><b><a class="page-link" href="/2019/keynote/#k1">Keynote: Challenges and Progress on Advancing, Trusting, and Scaling AI</a></b><ul><li>By Dr. John R. Smith (IBM Fellow, IBM Research AI)</li></ul></div></div>
+<div class="programblock"><div class="dateitem">10:00   10:30</div><b>Break </b></div>
+<div class="programblock"><div class="dateitem">10:30   12:10</div>
+    <div class="programdesc">
+        <h2><b>Session I: Smartphone Sensing</b><br>Session Chair: Polly Huang (National Taiwan University, Taiwan)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360036">VitaMon: Measuring Heart Rate Variability Using Smartphone Front Camera</a><br>
+            <span class="authors">Sinh Huynh (Singapore Management University); Rajesh Balan (Singapore Management University); JeongGil Ko (Yonsei University); Youngki Lee (Seoul National University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360032">SenseHAR: A Robust Virtual Activity Sensor for Smartphones and Wearables</a><br>
+            <span class="authors">Jeya Vikranth Jeyakumar (University of California, Los Angeles); Lianghzen Lai (ARM); Naveen Suda (ARM); Mani Srivastava (University of California, Los Angeles)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360037">ALT: Towards Automating Driver License Testing using Smartphones</a><br>
+            <span class="authors">Akshay Nambi (Microsoft Research); Ishit Mehta (Microsoft Research); Anurag Ghosh (Microsoft Research); Vijay Lingam (Microsoft Research); Venkat Padmanabhan (Microsoft Research)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360029">HyperSight: Boosting Distant 3D Vision on a Single Dual-camera Smartphone</a><br>
+            <span class="authors">Zifan Liu (Shanghai Jiao Tong University); Hongzi Zhu (Shanghai Jiao Tong University); Junchi Chen (Shanghai Jiao Tong University); Shan Chang (Donghua University); Lili Qiu (University of Texas at Austin)</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">12:10   13:30</div>
+    <div class="programdesc">
+        <ul>
+            <li><b>Lunch<br><a class="page-link" href="/2019/resources/documents/N2Women_flyer_SenSys.pdf">N2Women Lunch Meeting</a></b></li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">13:30   15:10</div>
+    <div class="programdesc">
+        <h2><b>Session II: Power</b><br>Session Chair: Koen Langendoen (TU Delft, The Netherlands)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360033">Intermittent Asynchronous Peripheral Operations</a><br>
+            <span class="authors">Adriano Branco (PUC Rio); Luca Mottola (Politecnico di Milano and RI.SE SICS); Muhammad Hamad Alizai (LUMS); Junaid Haroon Siddiqui (LUMS)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360034">SkinnyPower: Enabling Battery-less Wearable Sensors via Intra-Body Power Transfer</a><br>
+            <span class="authors">Rishi Shukla (University of Massachusetts Amherst); Neev Kiran (University of Massachusetts Amherst); Jeremy Gummeson (University of Massachusetts Amherst); Rui Wang (University of Massachusetts Amherst); Sunghoon Ivan Lee (University of Massachusetts Amherst)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360042">SHEPHERD: A Portable Testbed for the Batteryless IoT</a><br>
+            <span class="authors">Kai Geissdoerfer (TU Dresden); Mikolaj Chwalisz (TU Berlin); Marco Zimmerling (TU Dresden)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360044">Frugal Following: Power Thrifty Object Detection and Tracking for Mobile Augmented Reality</a><br>
+            <span class="authors">Kittipat Apicharttrisorn (University of California, Riverside); Xukan Ran (University of California, Riverside); Jiasi Chen (University of California, Riverside); Srikanth V. Krishnamurthy (University of California, Riverside); Amit K. Roy-Chowdhury (University of California, Riverside)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">15:10   15:40</div><b>Break </b></div>
+<div class="programblock"><div class="dateitem">15:40   17:20</div>
+<div class="programdesc">
+<h2><b>Session III: Deep Learning</b><br>Session Chair: Pei Zhang (Carnegie Mellon University, USA)</h2>
+    <ul>
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360020">MetaSense: Few-Shot Adaptation to Untrained Conditions in Deep Mobile Sensing</a><br> 
+        <span class="authors">Taesik Gong (KAIST); Yeonsu Kim (KAIST); Jinwoo Shin (KAIST); Sung-Ju Lee (KAIST)</span>
+        </li>
+        
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360025">Moving Target Defense for Embedded Deep Visual Sensing against Adversarial Examples</a><br>
+        <span class="authors">Qun Song (Nanyang Technological University); Zhenyu Yan (Nanyang Technological University); Rui Tan (Nanyang Technological University)</span>
+        </li>
+        
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360030">Neuro.ZERO: A Zero-Energy Neural Network Accelerator for Embedded Sensing and Inference Systems</a><br>
+        <span class="authors">Seulki Lee (University of North Carolina at Chapel Hill); Shahriar Nirjon (University of North Carolina at Chapel Hill)</span>
+        </li>
+        
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360038">DeepAPP: A Deep Reinforcement Learning Framework for Mobile Application Usage Prediction</a><br>
+        <span class="authors">Zhihao Shen (Xi'an Jiaotong University); Kang Yang (Xi'an Jiaotong University); Wan Du (University of California, Merced); Xi Zhao (Xi'an Jiaotong University); Jianhua Zou (Xi'an Jiaotong University)</span>
+        </li>
+        
+    </ul>
+</div>
+</div>
+<div class="programblock"><div class="dateitem">18:00   late</div>
+<div class="programdesc"><b>Reception - Low Rotunda</b><br>Welcome Remarks By: <ul><li><a href="https://datascience.columbia.edu/director-jeannette-wing" target=_blank>Jeannette Wing (Avanessians Director of the Data Science Institute, Columbia University)</a><br><a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-dverma" target=_blank>Dinesh Verma (IBM Fellow, Distributed AI)</a></ul></div></div>
+<!--<b>Reception - Low Rotunda</b></div>-->
+
+<!--<div class="programblock"><div class="dateitem">16:25   16:55</div>
+    <div class="programdesc">
+        <b>SIGMOBILE Test-of-Time Award: </b>
+        <ul>
+            <li>Network Information Flow -- IEEE Transactions on Information Theory, July 2000<br> <span class="authors">Rudolf Ahlswede, Ning Cai,  Shuo-Yen Robert Li and Raymond W. Yeung</span></li>
+        </ul>
+        <b> ACM SenSys Test-of-Time Award:</b>
+        <ul>
+            <li>To be annouced<br> <span class="authors"></span></li>
+        </ul>
+</div>
+<div class="programblock"><div class="dateitem">16:55   17:10</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">17:10   18:00</div> <b>SenSys Business Meeting</b></div>
+<div class="programblock"><div class="dateitem">18:00   20:00</div> <b>Reception</b></div>
+
+</div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--<div class="programblock"><div class="dateitem">9:00   17:00</div>-->
+<!--  <div class="programdesc">-->
+<!--    <h2><b>Workshops and Tutorial</b></h2>-->
+<!--  </div>-->
+<!--</div>-->
+
+<div class="programblock"></div>
+<h3>Tuesday, November 12, 2019</h3>
+<div class="programblock"><div class="dateitem">8:30 - 10:10</div>
+    <div class="programdesc">
+        <h2><b>Session IV: Communication</b><br>Session Chair: Wen Hu (UNSW and CSIRO, Australia)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360021">LuxLink: Creating a Wireless Link from Ambient Light</a><br> 
+            <span class="authors">Rens Bloom (AMS); Marco Zuniga (Delft University of Technology); Chaitra Pai (Delft University of Technology)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360022">LTE2B: Time-Domain Cross-Technology Emulation under LTE Constraints</a><br>
+            <span class="authors">Ruofeng Liu (University of Minnsota, twin cities); Zhimeng Yin (University of Minnsota, twin cities); Wenchao Jiang (University of Minnsota, twin cities); Tian He (University of Minnsota, twin cities)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360024">FTrack: Parallel Decoding for LoRa Transmissions</a><br>
+            <span class="authors">Xianjin Xia (The Hong Kong Polytechnic University); Yuanqing Zheng (The Hong Kong Polytechnic University); Tao Gu (RMIT University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360046">Parallel Inclusive Communication for Connecting Heterogeneous IoT Devices at the Edge</a><br>
+            <span class="authors">Zicheng Chi (University of Maryland, Baltimore County); Yan Li (University of Maryland, Baltimore County); Xin Liu (University of Maryland, Baltimore County); Yao Yao (University of Maryland, Baltimore County); Yanchao Zhang (Arizona State University); Ting Zhu (University of Maryland, Baltimore County)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">10:10   10:30</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">10:30   12:10</div>
+    <div class="programdesc">
+        <h2><b>Session V: Infrastructure Sensing</b><br>Session Chair: Marco Zimmerling (TU Dresden, Germany)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360023">WISDOM: Watering Intelligently at Scale with Distributed Optimization and Modeling</a><br>
+            <span class="authors">Daniel A. Winkler (University of California, Merced); Alberto E. Cerpa (University of California, Merced)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360041">Caesar: Cross-camera Complex Activity Recognition</a><br>
+            <span class="authors">Xiaochen Liu (University of Southern California); Pradipta Ghosh (University of Southern California); Oytun Ulutan (University of California, Santa Barbara); B.S. Manjunath (University of California, Santa Barbara); Kevin Chan (ARL); Ramesh Govindan (University of Southern California)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360028">SmrtFridge: IoT-based, User Interaction-Driven Food Item & Quantity Sensing</a><br>
+            <span class="authors">Amit Sharma (Singapore Management University); Archan Misra (Singapore Management University); Vengateswaran Subramaniam (Singapore Management University);  Youngki Lee (Seoul National University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360031">WideSee: Towards Wide-Area Contactless Wireless Sensing</a><br>
+            <span class="authors">Lili Chen (Northwest University); Jie Xiong (UMass Amherst); Xiaojiang Chen (Northwest University); Sunghoon Ivan Lee (UMass Amherst); Kai Chen (Northwest University); Dianhe Han (Northwest University); Dingyi Fang (Northwest University); Zhanyong Tang (Northwest University); Zheng Wang (Lancaster University)</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">12:10   13:30</div> <b>Lunch</b></div>
+<!--<div class="programblock"><div class="dateitem">12:10   13:30</div>
+    <div class="programdesc">
+    <ul>
+    <b>
+        <li>Lunch</li>
+        <li><a class="app" href="http://sensys.acm.org/2018/resources/documents/N2Women@SenSys18_Flyer.pdf">SenSys N2Women Meeting</a></li>
+    </b>
+    </ul>
+    </div>
+</div>-->
+
+
+<div class="programblock"><div class="dateitem">13:30   15:10</div>
+    <div class="programdesc">
+        <h2><b>Session VI: Wearable Sensing</b><br>Session Chair: Rui Tan (Nanyang Technological University, Singapore)</h2>
+        <ul>
+
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360043">A Closer Look at Quality-Aware Runtime Assessment of Sensing Models in Multi-Device Environments</a><br>
+            <span class="authors">Chulhong Min (Nokia Bell Labs); Alessandro Montanari (Nokia Bell Labs); Akhil Mathur (Nokia Bell Labs and University College London); Fahim Kawsar (Nokia Bell Labs and TU Delft)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360040">HandSense: Capacitive coupling-based Dynamic, Micro Finger Gesture Recognition</a><br>
+            <span class="authors">Viet Nguyen (Rutgers University); Siddharth Rupavatharam (Rutgers University); Luyang Liu (Rutgers University); Richard Howard (Rutgers University); Marco Gruteser (Rutgers University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360045">RFID Based Real-time Recognition of ongoing Gesture with Adversarial Learning</a><br>
+            <span class="authors">Yinggang Yu (Shanghai Jiao Tong University); Run Zhao (Shanghai Jiao Tong University); Qian Zhang (Shanghai Jiao Tong University); Dong Wang (Shanghai Jiao Tong University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360026">U-Verse: A Miniaturized Platform for End-to-End Closed-Loop Implantable Internet of Medical Things Systems</a><br>
+            <span class="authors">Raffaele Guida (Northeastern University); Neil Dave (Northeastern University); Francesco Restuccia (Northeastern University); Emrecan Demirors (Northeastern University); Tommaso Melodia (Northeastern University)</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+<div class="programblock"><div class="dateitem">15:10   15:40</div> <b>Break</b></div>
+
+<div class="programblock"><div class="dateitem">15:40   17:20</div>
+    <div class="programdesc">
+        <h2><b>Session VII: RFID and mmWave</b><br>Session Chair: Wan Du (UC Merced, USA)</h2>
+        <ul>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360019">FerroTag: A Paper-based mmWave-Scannable Tagging Infrastructure</a><br>
+            <span class="authors">Zhengxiong Li (University at Buffalo); Baicheng Chen (University at Buffalo); Zhuolin Yang (University at Buffalo); Huining Li (Nanjing University of Posts and Telecommunications); Chenhan Xu (University at Buffalo); Xingyu Chen (University at Buffalo); Kun Wang (Nanjing University of Posts and Telecommunications); Wenyao Xu (University at Buffalo)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360027">Tagtag: Material Sensing with Commodity RFID</a><br>
+            <span class="authors">Binbin Xie (UMass Amherst); Jie Xiong (UMass Amherst); Xiaojiang Chen (Northwest University); Eugene Chai (NEC Labs America); Liyao Li (Northwest University); Zhanyong Tang (NorthWest University); Dingyi Fang (Northwest University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360035">FaHo: Deep Learning Enhanced Holographic Localization for RFID tags</a><br>
+            <span class="authors">Huatao Xu (Shanghai Jiao Tong University); Dong Wang (Shanghai Jiao Tong University); Run Zhao (Shanghai Jiao Tong University); Qian Zhang (Shanghai Jiao Tong University)</span>
+            </li>
+            
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3360039">KinPhy: A Kinetic In-Band Channel for Millimetre-Wave Networks</a><br>
+            <span class="authors">Mohammed Alloulah (Nokia Bell Labs); Zoran Radivojevic (Nokia Bell Labs); Rene Mayrhofer (Johannes Kepler University); Howard Huang (Nokia Bell Labs)</span>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+
+<div class="programblock"><div class="dateitem">18:00   late</div>
+<div class="programdesc">
+    <b>Conference Banquet + Award Session</b>
+    <ul>
+        <li><a href="https://g.page/MuseumofCityNY?share">Location: Museum of the City of New York (5th Ave. & 104th St.)</a></li>
+    </ul>
+    </div>
+</div>
+
+<!--<div class="programblock"><div class="dateitem">15:10   15:40</div> <b><avit class="" href="https://www.wjx.top/jq/29897374.aspx">Local Tour.</a></b></div>
+<div class="programblock"><div class="dateitem">18:00   late</div>
+    <div class="programdesc">
+        <b>Conference Banquet, Announcement of ACM SenSys 2018 Best Paper Award </b>
+        <ul>
+            <li><a href="https://www.google.com/maps/place/Happy+Mall/@22.525748,113.9867813,17z/data=!3m1!4b1!4m5!3m4!1s0x3403f1907482d357:0xc6671f8366331309!8m2!3d22.525748!4d113.98897">Location: OCT Harbour Shopping Center F1-080-082, Baishi East Road 8th</a></li>
+        </ul>
+       </div>-->
+
+
+<div class="programblock"></div>
+<h3>Wednesday, November 13, 2019</h3>
+<div class="programblock"><div class="dateitem">8:00   8:30</div> <b>Registration</b></div>
+<div class="programblock"><div class="dateitem">8:30   9:30</div>
+<div class="programdesc"><b><a class="page-link" href="/2019/keynote/#k2">Joint SenSys/BuildSys Keynote: Enabling the SmartGrid with IoT Sensors and Edge-Cloud Analytics</a></b><ul><li>By Prof. Prabal Dutta (UC Berkeley)</li></ul></div></div>
+<div class="programblock"><div class="dateitem">9:30   10:30</div> <b>Joint Poster/Demo One-Minute Madness</b></div>
+<div class="programblock"><div class="dateitem">10:30   11:50</div> <b>Joint Poster/Demo Session in <a href="/2019/venue/#getting_to_demo_poster_venu">Lerner Hall, Room 555</a></b></div>
+<div class="programblock"><div class="dateitem">12:00   12:15</div> <b>Best Poster/Demo Awards + Closing</b></div>
+<div class="programblock"><div class="dateitem">12:15 - 13:00</div> <b>Lunch</b></div>
+
+<header>
+<h3>Best Poster Award</h3>
+</header>
+<ul>
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3356250.3361947">Poster Abstract: Privacy Preserving Speech Analysis using Emotion Filtering at the Edge</a><br><span class="authors">Ranya Aloufi, Hamed Haddadi, David Boyle (Imperial College London)</span></li>
+</ul>
+
+<h3 id="poster">Accepted Posters</h3>
+<ul>
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361953">Poster Abstract: "Sensing" the IoT Network: Ethical Capture of Domestic IoT Network Traffic</a><br><span class="authors">Diana Andreea Popescu, Vadim Safronov, Poonam Yadav (University of Cambridge); Roman Kolcun, Anna Maria Mandalari, Hamed Haddadi (Imperial College London); Derek McAuley (University of Nottingham); Richard Mortier (University of Cambridge)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361961">Poster Abstract: A Neural Networks based Caching Scheme for Mobile Edge Networks</a><br><span class="authors">Zhou Qin, Yikun Xian, Desheng Zhang (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/results.cfm?query=A+Swarm+of+Crop+Spraying+Drones+Solution+for+Optimising+Safe+Pesticide+Usage+in+Arable+Lands&Go.x=36&Go.y=7">Poster Abstract: A Swarm of Crop Spraying Drones Solution for Optimising Safe Pesticide Usage in Arable Lands</a><br><span class="authors">Akarshani Amarasinghe (University of Colombo); Viraj Brian Wijesuriya (University of Oxford); Dilshan Ganepola, Lakshman Jayaratne (University of Colombo)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361942">Poster Abstract: Anomaly Detection in Surface Mount Technology Process using Multi-modal Data</a><br><span class="authors">Mingyang Li, Hanling Wang, Yue Zhang, Shao-Lun Huang, Lin Zhang (Tsinghua-Berkeley Shenzhen Institute, Tsinghua University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361965">Poster Abstract: Caching Scheme for Internet of Vehicles Using Parked Vehicles</a><br><span class="authors">TaeYoung Kim, Seung-seob Lee, Chang Kyung Kim, SuKyoung Lee (Yonsei University)
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361966">Poster Abstract: Conflict Detection for Smart Cities Services</a><br><span class="authors">Shuxin Zhong, Desheng Zhang (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361938">Poster Abstract: Enhanced Air Quality Inference with Mobile Sensing Attention Mechanism</a><br><span class="authors">Ning Liu, Yue Wang, Jiayi Huang, Rui Ma, Lin Zhang (Tsinghua University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361955">Poster Abstract: Fine-Grained Travel Time Sensing in Heterogeneous Mobile Networks</a><br><span class="authors">Zhihan Fang (Rutgers University); Fan Zhang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Desheng Zhang (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361968">Poster Abstract: Mobile Golf Swing Tracking Using Deep Learning with Data Fusion</a><br><span class="authors">Hong Jia, Yuezhong Wu (UNSW & Data61-CSIRO); Jun Liu, Lina Yao (UNSW); Wen Hu (UNSW & Data61-CSIRO)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361933">Poster Abstract: Patient Identification Using A Smart Pill-Bottle</a><br><span class="authors">Murtadha Aldeer, Joseph Florentine, Jakub Kolodziejski, Jorge Ortiz, Richard Howard, Richard Martin (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3356250.3361947">Poster Abstract: Privacy Preserving Speech Analysis using Emotion Filtering at the Edge</a><br><span class="authors">Ranya Aloufi, Hamed Haddadi, David Boyle (Imperial College London)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361957">Poster Abstract: Privacy-Aware Synthesis of Sensing Data Based on Learning Model at Metropolitan Scale</a><br><span class="authors">Fan Zhang, Desheng Zhang (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361954">Poster Abstract: QoS in Software Defined IoT Network using Blockchain based Smart Contract</a><br><span class="authors">Priyanka Kamboj, Sujata Pal (Indian Institute of Technology Ropar)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361967">Poster Abstract: Reducing Synchronization Error in Wireless Sensor Nodes by using Previous Timing Information as Training Data</a><br><span class="authors">Farzad Asgarian, Khalil Najafi (University of Michigan)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361956">Poster Abstract: Revealing Insights for Improvements in LoRaWAN in Multiple Applications Scenarios</a><br><span class="authors">Muhammad Omer Farooq, Thomas Kunz (Carleton University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361939">Poster Abstract: Side Channel Attack on Smartphone Sensors to Infer Gender of the User</a><br><span class="authors">Shirish Singh (Columbia University); Devu Manikantan Shila (Unknot.id); Gail Kaiser (Columbia University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361943">Poster Abstract: System for Vehicle Selection in Drive-by Sensing</a><br><span class="authors">Dhruv Agarwal (Ashoka University); Srinivasan Iyengar, Manohar Swaminathan (Microsoft Research India)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361950">Poster Abstract: tCharge - A Fleet-Oriented Real-Time Charging Scheduling System for Electric Taxi Fleets</a><br><span class="authors">Guang Wang (Rutgers University); Fan Zhang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Desheng Zhang (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361931">Poster Abstract: Towards Wide-Area Contactless Human Sensing</a><br><span class="authors">Kai Chen, Lili Chen, Dianhe Han (Northwest University); Jie Xiong, Sunghoon Ivan Lee (UMass Amherst); Xiaojiang Chen, Zhanyong Tang, Dingyi Fang, Fuwei Wang (Northwest University); Zheng Wang (University of Leeds)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361940">Poster Abstract: Two-Terminal Connectivity in UWSN Probabilistic Graphs: A Polynomial Time Algorithm</a><br><span class="authors">Youssef N Altherwy (Imperial College London); Ehab S. Elmallah (University of Alberta); Julie McCann (Imperial College London)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361960">Poster Abstract: Ultrasonic Waste Monitoring in the Future Industrial Kitchen</a><br><span class="authors">Fabio Vasconcelos, Vitor Aguiar (ITI, LARSyS, M-ITI); Lucas Pereira (ITI, LARSyS, Tecnico Lisboa)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361952">Poster Abstract: Understanding Air Pollution Patterns in City Based on Minute-Level Event Detection</a><br><span class="authors">Jiayi Huang, Ning Liu, Rui Ma, Xinyu Liu, Yue Wang, Lin Zhang (Tsinghua University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361958">Poster Abstract: Understanding Real-Time Interaction in Heterogeneous Vehicular Sensing</a><br><span class="authors">Xiaoyang Xie (Rutgers University); Fan Zhang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Desheng Zhang (Rutgers University)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361930">Poster Abstract: Using machine learning to orchestrate cloud resources in a RAN enabled edge environment</a><br><span class="authors">Jude Fletcher, David Wallom (University of Oxford)</span></li>
+    
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361964">Poster Abstract: Vehicular Mobility Modeling based on Heterogeneous Sensor Networks</a><br><span class="authors">Yu Yang (Rutgers University); Fan Zhang (Shenzhen Institutes of Advanced Technology); Desheng Zhang (Rutgers University)</span></li>
+</ul>
+
+<header>
+<h3>Best Demo Award</h3>
+</header>
+<ul>
+    <li><a class="" href="https://dl.acm.org/citation.cfm?id=3361946">Demo Abstract: BatteryLab, A Distributed Power Monitoring Platform For Mobile Devices</a><br><span class="authors">Matteo Varvello (Brave Software); Kleomenis Katevas (Imperial College London); Wei Hang (Northwestern University); Mihai Plesa (Brave Software); Hamed Haddadi (Imperial College London); Fabian Bustamante (Northwestern University); Benjamin Livshits (Brave Software)</span></li>
+</ul>
+
+<h3 id="demo">Accepted Demos</h3>
+<ul>
+
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361963">Demo Abstract: Acoustic Anomaly Detection System</a><br><span class="authors">Jae-wook Ahn, Keith Grueneberg, Bongjun Ko, Wei-Han Lee, Eduardo Morales, Shiqiang Wang, Xiping Wang, David Wood (IBM Research)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361935">Demo Abstract: Adaptive AR Visual Output Security using Reinforcement Learning Trained Policies</a><br><span class="authors">Joseph DeChicchis (Duke University); Surin Ahn (Stanford University); Maria Gorlatova (Duke University)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361934">Demo Abstract: An Architecture for Edge Computing over Underutilized Gateways</a><br><span class="authors">Nabeel Nasir, Bradford Campbell (University of Virginia)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361951">Demo Abstract: ARMove: A Smartphone Augmented Reality Exergaming System for Upper and Lower Extremities Stroke Rehabilitation</a><br><span class="authors">Gabriel Guo (SUNY Buffalo, Williamsville East HS); Joshua Segal (University of Michigan); Hanbin Zhang, Wenyao Xu (SUNY Buffalo)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361946">Demo Abstract: BatteryLab, A Distributed Power Monitoring Platform For Mobile Devices</a><br><span class="authors">Matteo Varvello (Brave Software); Kleomenis Katevas (Imperial College London); Wei Hang (Northwestern University); Mihai Plesa (Brave Software); Hamed Haddadi (Imperial College London); Fabian Bustamante (Northwestern University); Benjamin Livshits (Brave Software)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361949">Demo Abstract: BIGHand - A Bilateral, Integrated, and Gamified Handgrip Stroke Rehabilitation System for Independent at-Home Exercise</a><br><span class="authors">Emery Comstock (SUNY Buffalo); Gabriel Guo (SUNY Buffalo, Williamsville East HS); Wenyao Xu (SUNY Buffalo)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361945">Demo Abstract: Detailed Recording and Emulation of Spatio-temporal Energy Environments with Shepherd</a><br><span class="authors">Kai Geissdoerfer (TU Dresden); Mikolaj Chwalisz (TU Berlin); Marco Zimmerling (TU Dresden)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361932">Demo Abstract: E-Eye: mmWave Nonlinear Response for Hidden Electronic Device Recognition</a><br><span class="authors">Baicheng Chen, Zhengxiong Li, Zhuolin Yang (SUNY Buffalo); Changzhi Li (Texas Tech University); Feng Lin (Zhejiang University); Wenyao Xu (SUNY Buffalo)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361944">Demo Abstract: Edge-assisted Collaborative Image Recognition for Augmented Reality</a><br><span class="authors">Jovan Stojkovic (University of Belgrade); Zida Liu, Guohao Lan (Duke University); Carlee Joe-Wong (Carnegie Mellon University); Maria Gorlatova (Duke University)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361959">Demo Abstract: Enabling Battery-less Wearable Sensors via Intra-Body Power Transfer</a><br><span class="authors">Rishi Shukla, Neev Kiran, Rui Wang, Jeremy Gummeson, Sunghoon Ivan Lee (UMass Amherst)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361941">Demo Abstract: Privacy preserving Pregnancy Weight Gain Management</a><br><span class="authors">Chetanya Puri, Koustabh Dolui (KU Leuven); Gerben Kooijman, Felipe Masculo, Shannon Van Sambeek, Sebastiaan Den Boer (Philips Research, Netherlands); Sam Michiels, Hans Hallez (KU Leuven); Stijn Luca (Ghent University); Bart Vanrumste (KU Leuven)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361936">Demo Abstract: Smartphone-based Driver License Testing</a><br><span class="authors">Anurag Ghosh, Vijay Lingam, Ishit Mehta, Akshay Uttama Nambi, Venkata N. Padmanabhan, Satish Sangameswaran (Microsoft Research)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361962">Demo Abstract: Stardust: A Deep Learning Serving System in IoT</a><br><span class="authors">Shuochao Yao, TianshiWang, Jinyang Li, Tarek Abdelzaher (University of Illinois at Urbana-Champaign)</span></li>
+ 
+<li><a class="" href="https://dl.acm.org/citation.cfm?id=3361937">Demo Abstract: Two-Phase Dissemination Scheme for CoAP-based Firmware-over-the-air Update of Wireless Sensor Networks</a><br><span class="authors">Huiung Park (University of Science and Technology, Korea); Haeyong Kim, Seon-Tae Kim, Pyeongsoo Mah, Chaedeok Lim (Electronics and Telecommunications Research Institute)</span></li>
+
+</ul>
+
+<br>
+
+<!--<h3>Monday, November 5, 2018</h3>
+<div class="programblock"><div class="dateitem">7:45   8:30</div> <b>Registration</b></div>
+<div class="programblock"><div class="dateitem">8:30   8:45</div> <b>Opening</b></div>
+<div class="programblock"><div class="dateitem">8:45   10:00</div>
+    <div class="programdesc"><b><a class="page-link" href="/2018/keynote/#k1">Keynote: Next Frontier of IoT: Digitize the physical world and make sense of it. </a></b><ul><li>By Sean Ding (CTO, IoT BU, Alibaba)</li></ul></div></div>
+<div class="programblock"><div class="dateitem">10:00   10:30</div><b>Break </b></div>
+<div class="programblock"><div class="dateitem">10:30   11:45</div>
+    <div class="programdesc">
+        <h2><b>Session I: On the road</b> (Session Chair: Hae Young Noh)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274850">EXIMIUS: A Measurement Framework for Explicit and Implicit Urban Traffic Sensing</a><br>
+                <span class="authors">Zhou Qin, Zhihan Fang (Rutgers University); Yunhuai Liu (Peking University); Chang Tan, Wei Chang (iflytek); Desheng Zhang (Rutgers University)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274838">Automatic Unusual Driving Event Identification for Dependable Self-Driving</a><br>
+                <span class="authors">Hongyu Li, Hairong Wang, Luyang Liu, Marco Gruteser (Rutgers University)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274843">Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning</a><br>
+                <span class="authors">Salma Elmalaki, Huey-Ru Tsai, Mani Srivastava (University of California, Los Angeles)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">11:45   12:35</div>
+    <div class="programdesc">
+        <h2><b>Session II: Without batteries</b> (Session Chair: Jacob Sorber)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274837">InK: Reactive Kernel for Tiny Batteryless Sensors</a><br>
+                <span class="authors">Kas1m Sinan Y1ld1r1m, Amjad Yousef Majid, Dimitris Patoukas, Koen Schaper, PrzemysBaw PaweBczak (Delft University of Technology); Josiah David Hester (Northwestern University)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274854">CapBand: Battery-free Successive Capacitance Sensing Wristband for Hand Gesture Recognition</a><br>
+                <span class="authors">Hoang Truong, Shuo Zhang (University of Colorado Boulder); Ufuk Muncuk (Northeastern University); Phuc Nguyen, Nam Bui, Anh Nguyen, Qin Lv (University of Colorado Boulder); Kaushik Chowdhury (Northeastern University); Thang Dinh (Virginia Commonwealth University); Tam Vu (University of Colorado Boulder)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">12:35   13:35</div> <b>Lunch</b></div>
+<div class="programblock"><div class="dateitem">13:35   14:50</div>
+    <div class="programdesc">
+        <h2><b>Session III: Trust no one</b> (Session Chair: Wen Hu)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274833">E-Eye: Hidden Electronics Recognition through mmWave Nonlinear Effects</a><br>
+                <span class="authors">Zhengxiong Li, Zhuolin Yang, Chen Song (SUNY University at Buffalo); Changzhi Li, Zhengyu Peng (Texas Tech University); Wenyao Xu (SUNY University at Buffalo)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274855">Hidebehind: Enjoy Voice Input with Voiceprint Unclonability and Anonymity</a><br>
+                <span class="authors">Jianwei Qian, Haohua Du, Jiahui Hou, Linlin Chen (Illinois Institute of Technology); Taeho Jung (University of Notre Dame); Xiang-Yang Li (University of Science and Technology of China)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274853">Fall-Curves: A novel primitive for IoT Fault Detection and Isolation</a><br>
+                <span class="authors">Tusher Chakraborty, Akshay Nambi, Ranveer Chandra, Rahul Sharma, Manohar Swaminathan, Jonathan Appavoo, Zerina Kapetanovic (Microsoft Research)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">14:50   15:10</div><b>Break </b></div>
+<div class="programblock"><div class="dateitem">15:10   16:25</div>
+    <div class="programdesc">
+        <h2><b>Session IV: Lost</b> (Session Chair: Xiaofan (Fred) Jiang)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274851">3D Localization for Sub-Centimeter Sized Devices</a><br>
+                <span class="authors">Rajalakshmi Nandakumar, Vikram Iyer, Shyamnath Gollakota (University of Washington)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274852">Accurate 3D Localization for 60 GHz Networks</a><br>
+                <span class="authors">Ioannis Pefkianakis, Kyu-Han Kim (Hewlett Packard Labs)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274844">SALMA: UWB-based Single-Anchor Localization System using Multipath Assistance</a><br>
+                <span class="authors"> Bernhard Groswindhager, Michael Rath, Josef Kulmer, Mustafa Bakr, Carlo Alberto Boano, Klaus Witrisal, Kay Romer (Graz University of Technology, Austria)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">16:25   16:55</div>
+    <div class="programdesc">
+        <b>SIGMOBILE Test-of-Time Award: </b>
+        <ul>
+            <li>Network Information Flow -- IEEE Transactions on Information Theory, July 2000<br> <span class="authors">Rudolf Ahlswede, Ning Cai,  Shuo-Yen Robert Li and Raymond W. Yeung</span></li>
+        </ul>
+        <b> ACM SenSys Test-of-Time Award:</b>
+        <ul>
+            <li>To be annouced<br> <span class="authors"></span></li>
+        </ul>
+</div>
+<div class="programblock"><div class="dateitem">16:55   17:10</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">17:10   18:00</div> <b>SenSys Business Meeting</b></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="programblock"></div>
+<h3>Tuesday, November 6, 2018</h3>
+<div class="programblock"><div class="dateitem">8:30   10:10</div>
+<div class="programdesc">
+<h2><b>Session V: Staying connected</b> (Session Chair: Yuan He)</h2>
+    <ul>
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274849">Mixer: Efficient Many-to-All Broadcast in Dynamic Wireless Mesh Networks</a><br>
+            <span class="authors">Carsten Herrmann, Fabian Mager, Marco Zimmerling (TU Dresden)</span>
+        </li>
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274846">Passive ZigBee: Enabling ZigBee Communication in IoT networks with 1000x Less Power Consumption</a><br>
+            <span class="authors">Yan Li, Zicheng Chi, Xin Liu, Ting Zhu (UMBC)</span>
+        </li>
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274835">Exploiting WiFi Guard Band for Safeguarded ZigBee</a><br>
+            <span class="authors">Yoon Chae, Shuai Wang, Song Min Kim (George Mason University)</span>
+        </li>
+        <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274841">ShieldScatter: Improving IoT Security with Backscatter Assistance</a><br>
+            <span class="authors">Zhiqing Luo, Wei Wang, Jun Qu, Tao Jiang, Qian Zhang</span>
+        </li>
+    </ul>
+  </div>
+</div>
+<div class="programblock"><div class="dateitem">10:10   10:40</div> <b>Break</b></div>
+<div class="programblock"><div class="dateitem">10:40   12:20</div>
+    <div class="programdesc">
+        <h2><b>Session VI: Rethinking sensing</b> (Session Chair: Song Min Kim)</h2>
+        <ul>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274845">Fabric as a Sensor: Towards Unobtrusive Sensing of Human Behavior with Triboelectric Textiles</a><br>
+                <span class="authors">Ali Kiaghadi, Morgan Baima, Jeremy Gummeson, Trisha Andrew, Deepak Ganesan</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274848">UbiTap: Leveraging Acoustic Dispersion for Ubiquitous Touch Interface on Solid Surfaces</a><br>
+                <span class="authors">Hyosu Kim, Anish Byanjankar (KAIST); Yunxin Liu, Yuanchao Shu (Microsoft Research); Insik Shin (KAIST)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274836">Continuous Low-Power Ammonia Monitoring Using Long Short-Term Memory Neural Networks</a><br>
+                <span class="authors"> Zhenhua Jia, Xinmeng Lyu, Wuyang Zhang, Richard P. Martin, Richard E. Howard, Yanyong Zhang (WINLAB, Rutgers University)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274847">EAR: Exploiting Uncontrollable Ambient RF Signals in Heterogeneous Networks for Gesture Recognition</a><br>
+                <span class="authors"> Zicheng Chi, Yao Yao, Tiantian Xie, Xin Liu, Zhichuan Huang, Wei Wang, Ting Zhu (UMBC)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">12:20   13:20</div>
+    <div class="programdesc">
+    <ul>
+    <b>
+        <li>Lunch</li>
+        <li><a class="app" href="http://sensys.acm.org/2018/resources/documents/N2Women@SenSys18_Flyer.pdf">SenSys N2Women Meeting</a></li>
+    </b>
+    </ul>
+    </div>
+</div>
+
+
+<div class="programblock"><div class="dateitem">13:20   15:00</div>
+    <div class="programdesc">
+        <h2><b>Session VII: Tomorrow's systems</b> (Session Chair: Raghu Ganti)</h2>
+        <ul>
+
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274842">CapeVM: A Safe and Fast Virtual Machine for Resource-Constrained Internet-of-Things Devices</a><br>
+                <span class="authors">Niels Reijers, Chi-Sheng Shih (National Taiwan University)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274839">System Architecture Directions for Post-SoC/32-bit Networked Sensors</a><br>
+                <span class="authors">Hyung-Sin Kim, Michael P Andersen, Kaifei Chen, Sam Kumar, William J. Zhao, Kevin Ma, David E. Culler (UC Berkeley)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274840">FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices</a><br>
+                <span class="authors">Shuochao Yao, Yiran Zhao, Huajie Shao, Shengzhong Liu, Dongxin Liu (University of Illinois at Urbana Champaign); Lu Su (State University of New York Buffalo); Tarek Abdelzaher (University of Illinois at Urbana Champaign)</span>
+            </li>
+            <li><a class="" href="https://dl.acm.org/citation.cfm?id=3274834">MARVEL: Enabling Mobile Augmented Reality with Low Energy and Low Latency</a><br>
+                <span class="authors">Kaifei Chen, Tong Li, Hyung-Sin Kim, David Culler, Randy Katz (UC Berkeley)</span>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="programblock"><div class="dateitem">15:00   18:00</div> <b><a class="" href="https://www.wjx.top/jq/29897374.aspx">Local Tour.</a></b></div>
+<div class="programblock"><div class="dateitem">18:00   late</div> <b>Conference Banquet, Announcement of ACM SenSys 2018 Best Paper Award</b></div>
+
+
